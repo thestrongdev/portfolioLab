@@ -1,0 +1,114 @@
+#header {
+    
+    width: 100%; 
+    height: 3em;
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    background-color: lavender;
+    color: plum;
+    /* background-color: */
+}
+
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+a:visited{
+    color:purple;
+}
+
+.subsection{
+    width: 32%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    /* background-color: lightgray; */
+}
+
+.about-subsection{
+    width: 50%;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+  
+}
+
+.description{
+    width: 50%;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px; 
+    background-color: lightpink;
+    color: purple;
+}
+
+.first{
+    padding: 19px;
+}
+
+#bio{
+    background-color:lightgray;
+    color: black;
+}
+
+#contact{
+    background-color: black;
+    color: lightgray;
+    padding: 36px;
+}
+
+
+.section{
+    margin-top: 90px;
+    margin-bottom: 90px;
+    align-items: center;
+    display: inline-flex;
+    min-height: 100%;
+    text-align: center;
+}
+
+#developing{
+    background-color: aqua;
+    
+    
+}
+
+#hometown{
+    background-color: lightsalmon;
+    
+}
+
+#blog{
+    background-color: lightgreen;
+    padding: 36px;
+}
+
+#social-footer {
+    padding: 1rem;
+    background-color: lavender;  
+    margin-top: -50px;  
+    
+  }
+
+  .social-footer-icons{
+    display: inline-flex;
+  }
+
+  .social-links{
+      width: 50%;
+      padding: 10px;
+  }
+  
+
+  
+ 
