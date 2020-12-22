@@ -85,12 +85,12 @@ a:visited{
 
 #hometown{
     background-color: lightsalmon;
-    
+    padding: 22px;
 }
 
 #blog{
     background-color: lightgreen;
-    padding: 36px;
+    padding: 57px;
 }
 
 #social-footer {
